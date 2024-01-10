@@ -1,0 +1,21 @@
+JSE->Java Standard Edition(Core Java)
+JME->Java Mobile Edition(Android Application)
+JEE-> Java Enterprise Edition(Advance Java)
+Collection,JDBC,Servlet,JSP
+
+Collection Frameworks:- Framework is a set of api(Collection of interfaces,classes and packages)
+1. Collection-D.S
+2.JDBC-D.B
+3.JEE-Web and Enterprise
+4.Struts-MVC
+5.Hibernate-ORM(Object Relational Mapping)
+6.Spring-Aop(Aspect oriented programming) and IOC(Inversion of control...)
+
+
+
+
+
+1) Array
+2)Linked List
+3)Hash Map
+4)Hash Set

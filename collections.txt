@@ -1,0 +1,10 @@
+                      Collection
+               __________|____________________
+              |                |              |
+            List              Queue          Set(N )
+             |-ArrayList      |-Priority     |-Hashset
+                                 Queue       |-Linked Hashset
+             |-LinkedList     |-Deque        |-Shorted Set
+             |-Vector                             _|_
+             |-Stack                             TreeSet
+             
